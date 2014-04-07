@@ -1,4 +1,4 @@
-define("arale/cookie/1.0.2/cookie-debug", [], function(require, exports) {
+define("moe/cookie/1.0.2/cookie-debug", [], function(require, exports) {
     // Cookie
     // -------------
     // Thanks to:
